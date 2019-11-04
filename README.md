@@ -17,4 +17,4 @@ Then did regression with TheilSenRegressor.
 
 The prediction graph over 2017 is plotted with an accuracy of 98.2%
 
-The report for this model is present in [ppt](STATISTICAL ARBITRAGE MODEL.pptx)
+The report for this model is present in STATISTICAL ARBITRAGE MODEL.pptx
