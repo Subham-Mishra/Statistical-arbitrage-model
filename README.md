@@ -12,8 +12,6 @@ Dataset (https://drive.google.com/file/d/1kyNXxSM-_MSW4kSUJ90HlPQaxPCVti5L/view)
 
 From the data we extracted "20MICRONS" data and stored in csv file. The code for ectraction is in sam.py
 
-After then the project guide is available in PPT
-
 I did time series analysis to seperate 2016 & 2017 reports as Training and Testing data respectively.
 
 Then did regression with TheilSenRegressor.
