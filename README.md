@@ -1,6 +1,5 @@
 # Statistical-arbitrage-model
 
-Statistical-Arbitrage-Model
 Machine learning model to predict stock data for a year
 
 
